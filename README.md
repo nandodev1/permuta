@@ -1,2 +1,2 @@
 # permuta
-Repositorio criado para realizar a permutação de todas as cadeiras do curso de LC da UFRPE.
+Criado para realizar a permutação de todas as cadeiras do curso de LC da UFRPE. Auxiliando na escolha de cursos a ser pago no semestre.
