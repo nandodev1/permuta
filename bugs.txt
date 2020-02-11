@@ -1,0 +1,1 @@
+colisão de horário das sextas feiras não é detectado.

@@ -1,0 +1,48 @@
+folga sexta
++==============================================================================================
+| Circuitos_digitais -- Periodo: 3º -- Horários:  ('18:30', 'TER') ('18:30', 'QUI')
+| Metodologia_ensino_computação -- Periodo: 4º -- Horários:  ('18:30', 'SEG') ('20:10', 'QUA')
+| Aspectos_humanos_sociais -- Periodo: 4º -- Horários:  ('8:00', 'SAB') ('10:00', 'SAB')
+| Engenharia_software -- Periodo: 5º -- Horários:  ('20:10', 'SEG') ('18:30', 'QUA')
+| Dias:  ['TER', 'QUI', 'SEG', 'QUA', 'SAB']  Quant. dias:  5
++==============================================================================================
+| Circuitos_digitais -- Periodo: 3º -- Horários:  ('18:30', 'TER') ('18:30', 'QUI')
+| Aspectos_humanos_sociais -- Periodo: 4º -- Horários:  ('8:00', 'SAB') ('10:00', 'SAB')
+| Redes_computadores -- Periodo: 5º -- Horários:  ('18:30', 'SEG') ('20:10', 'QUI')
+| Engenharia_software -- Periodo: 5º -- Horários:  ('20:10', 'SEG') ('18:30', 'QUA')
+| Dias:  ['TER', 'QUI', 'SAB', 'SEG', 'QUA']  Quant. dias:  5
++==============================================================================================
+| Circuitos_digitais -- Periodo: 3º -- Horários:  ('18:30', 'TER') ('18:30', 'QUI')
+| Aspectos_humanos_sociais -- Periodo: 4º -- Horários:  ('8:00', 'SAB') ('10:00', 'SAB')
+| Engenharia_software -- Periodo: 5º -- Horários:  ('20:10', 'SEG') ('18:30', 'QUA')
+| Educação_distancia -- Periodo: 7º -- Horários:  ('18:30', 'SEG') ('20:10', 'QUI')
+| Dias:  ['TER', 'QUI', 'SAB', 'SEG', 'QUA']  Quant. dias:  5
++==============================================================================================
+
+
+folga quarta
++==============================================================================================
+| Circuitos_digitais -- Periodo: 3º -- Horários:  ('18:30', 'TER') ('18:30', 'QUI')
+| Banco_de_dados -- Periodo: 4º -- Horários:  ('20:10', 'TER') ('18:30', 'SEX')
+| Aspectos_humanos_sociais -- Periodo: 4º -- Horários:  ('8:00', 'SAB') ('10:00', 'SAB')
+| Redes_computadores -- Periodo: 5º -- Horários:  ('18:30', 'SEG') ('20:10', 'QUI')
+| Dias:  ['TER', 'QUI', 'SEX', 'SAB', 'SEG']  Quant. dias:  5
++==============================================================================================
+| Circuitos_digitais -- Periodo: 3º -- Horários:  ('18:30', 'TER') ('18:30', 'QUI')
+| Banco_de_dados -- Periodo: 4º -- Horários:  ('20:10', 'TER') ('18:30', 'SEX')
+| Aspectos_humanos_sociais -- Periodo: 4º -- Horários:  ('8:00', 'SAB') ('10:00', 'SAB')
+| Educação_distancia -- Periodo: 7º -- Horários:  ('18:30', 'SEG') ('20:10', 'QUI')
+| Dias:  ['TER', 'QUI', 'SEX', 'SAB', 'SEG']  Quant. dias:  5
++==============================================================================================
+
++==============================================================================================
+| Banco_de_dados -- Periodo: 4º -- Horários:  ('20:10', 'TER') ('18:30', 'SEX')
+| Metodologia_aplicada -- Periodo: 5º -- Horários:  ('18:30', 'QUA') ('18:30', 'SEX')
+| Algebra_linear -- Periodo: 5º -- Horários:  ('18:30', 'TER') ('20:10', 'SEX')
+| Pratica_ensino_2 -- Periodo: 6º -- Horários:  ('08:00', 'SAB') ('10:00', 'SAB')
+| Dias:  ['TER', 'SEX', 'QUA', 'SAB']  Quant. dias:  4
++---------------------------+
+| d | s | t | q | q | s | s |
+|   |   | * | * |   | * | * |
+|   |   | * |   |   | * | * |
++---------------------------+

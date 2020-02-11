@@ -1,0 +1,21 @@
+#PARA RETIRAR UMA CADEIRA DA PERMUTAÇÃO COMENTE O INICIO DA
+#LINHA COM '#'
+#14063 Circuitos_digitais 3 - 18:30 2 18:30 5
+05498 Educação_brasileira 2 - 18:30 2 20:10 5
+04304 Produção_textos_academico 1 - 18:30 2 20:10 5
+#06215 Banco_de_dados 4 - 20:10 2 18:30 5
+#05500 Metodologia_ensino_computação 4 - 18:30 1 20:10 3
+#06243 Estatistica_exploratoria 4 - 18:30 3 20:10 5
+#28007 Aspectos_humanos_sociais 4 - 08:00 6 10:00 6
+28009 Pratica_ensino_1 6 - 8:00 6 10:00 6
+14058 Redes_computadores 5 - 18:30 1 20:10 4
+14112 Metodologia_aplicada 5 - 20:10 3 18:30 5
+#06506 Algebra_linear 5 - 18:30 2 20:10 5
+#06226 Engenharia_software 5 - 20:10 1 18:30 3
+28009 Pratica_ensino_2 6 - 08:00 6 10:00 6
+28010 Tecnologia_educação 6 - 18:30 2 20:10 4
+#14324 Interação_H_M 6 - 18:30 3 20:10 5
+#14074 Inteligência_artificial 6 - 20:10 2 18:30 4
+#06281 Educação_distancia 7 - 18:30 1 20:10 4
+05145 Relações_étinico_raciais 7 - 20:10 1 18:30 4
+04341 Libras 8 - 18:30 1 20:10 3
